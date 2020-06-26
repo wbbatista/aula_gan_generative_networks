@@ -1,0 +1,6 @@
+type of gans:
+https://developers.google.com/machine-learning/gan/applications
+
+
+Wasserstein Loss
+https://developers.google.com/machine-learning/gan/loss
